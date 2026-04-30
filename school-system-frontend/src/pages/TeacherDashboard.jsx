@@ -94,7 +94,6 @@ function TeacherDashboard() {
           </form>
 
           <div style={{ marginTop: '40px', backgroundColor: '#f9f9f9', padding: '15px', borderRadius: '8px' }}>
-            <h4>פעולות מהירות:</h4>
             <button 
               onClick={() => navigate('/ViewMap', { state: { userId, userName, userGrade } })} 
               style={{ 
