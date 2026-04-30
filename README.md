@@ -18,7 +18,8 @@ Registration
 2. Choose whether you are registering as a Teacher (to the system) or a Student (to the trip).
 3. Fill in the required information and submit
 
-   <img width="1842" height="985" alt="image" src="https://github.com/user-attachments/assets/5dfdd5ee-877f-48cf-abc9-382938c51af7" />
+<img width="716" height="637" alt="image" src="https://github.com/user-attachments/assets/10fd8371-ec7a-4d07-b94a-df9997dbb06c" />
+
     Login
 1. Go to the login page.
 2. Select the "Teacher" role.
